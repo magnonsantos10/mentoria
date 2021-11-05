@@ -1,5 +1,5 @@
 # Mentoria
-Mentoria voltada para pessoas que desejam ingressar na área de teste e qualidade.
+Mentoria para pessoas que desejam ingressar na área de teste e qualidade.
 
 ## Pré Requisitos:
 
