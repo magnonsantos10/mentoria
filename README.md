@@ -1,5 +1,9 @@
-# mentoriaJR
+# Mentoria
 Mentoria voltada para pessoas que desejam ingressar na área de teste e qualidade.
+
+## Pré Requisitos:
+
+Vontade de aprender e muita sede por conhecimento.
 
 ## O que será abordado:
 
