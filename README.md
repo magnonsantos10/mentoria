@@ -50,6 +50,10 @@ Mentoria com conceitos básicos de automação de testes para que você possa su
 * Testes em modo headles
 * Testando modo headles com outros navegadores
 
+### Bônus
+
+* Allure Report
+
 # Mentoria Automação de Testes com Cypress (API)
 
 ### O que será abordado:
