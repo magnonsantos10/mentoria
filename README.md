@@ -20,7 +20,7 @@ Vontade de aprender e muita sede por conhecimento.
 * Requisitos de testes
 * Conceito de testes, tais como: caixa-branca, caixa-preta, funcionais, teste de stress, testes de regressão, testes de integração, teste de unidade, teste de aceitação
 
-# Mentoria Automação de Testes com Cypress (Básico)
+# Automação de Testes com Cypress (Básico)
 Mentoria com conceitos básicos de automação de testes para que você possa subir de nível dentro da área de teste e qualidade.
 
 ### O que será abordado:
@@ -44,7 +44,7 @@ Mentoria com conceitos básicos de automação de testes para que você possa su
 
 * Allure Report
 
-# Mentoria Automação de Testes com Cypress (API)
+# Automação de Testes com Cypress (API)
 
 ### O que será abordado:
 
@@ -53,7 +53,7 @@ Mentoria com conceitos básicos de automação de testes para que você possa su
 * Como identificar chamadas e recursos de interação
 * Como montar uma boa estrutra de testes
 
-# Mentoria Teste de Performance com JMeter
+# Teste de Performance com JMeter
 
 * Instalando e configurando JMeter
 * Utilizando BlazeMeter para capturar cenários
